@@ -1,0 +1,11 @@
+1. Set directory
+   a. Go to bottom-left panel 
+   b. Go to files panel
+   c. Browse data folder and open it
+   d. Click on more and set directory
+
+2. Run "Crime_rate.R"
+
+3. Run "Backup.R"
+   a. Copy paste the whole code in console
+   b. Press Enter
